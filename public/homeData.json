@@ -1,0 +1,147 @@
+[
+  {
+    "image": "https://placehold.co/200x200?text=ChatApp",
+    "title": "ChatApp",
+    "companyName": "Connectify Inc.",
+    "id": 1,
+    "description": "Stay connected with friends and family through instant messaging, voice calls, video calls, and group chats. Share photos, videos, and documents securely.",
+    "size": 45,
+    "reviews": 125000,
+    "ratingAvg": 4.5,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 17000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=PhotoEditor",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelCraft Studio",
+    "id": 2,
+    "description": "Transform your photos with professional editing tools, stunning filters, creative effects, and easy-to-use adjustments for brightness, contrast, and color.",
+    "size": 78,
+    "reviews": 98000,
+    "ratingAvg": 4.7,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=MusicPlayer",
+    "title": "Music Player",
+    "companyName": "SoundWave Technologies",
+    "id": 3,
+    "description": "Enjoy your favorite music with a powerful audio player featuring playlists, equalizer settings, background playback, and support for multiple audio formats.",
+    "size": 32,
+    "reviews": 76000,
+    "ratingAvg": 4.3,
+    "downloads": 8500000,
+    "ratings": [
+      { "name": "1 star", "count": 6000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 13000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Fitness",
+    "title": "FitTrack",
+    "companyName": "ActiveLife Solutions",
+    "id": 4,
+    "description": "Track your daily activity, monitor your workouts, count calories, and build healthier habits with personalized fitness plans and progress reports.",
+    "size": 56,
+    "reviews": 54000,
+    "ratingAvg": 4.6,
+    "downloads": 6500000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Weather",
+    "title": "Weather Now",
+    "companyName": "SkyCast Digital",
+    "id": 5,
+    "description": "Get current weather conditions, hourly forecasts, severe weather alerts, and weekly predictions to plan your activities with confidence.",
+    "size": 28,
+    "reviews": 43000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Budget",
+    "title": "Budget Planner",
+    "companyName": "SmartFinance Labs",
+    "id": 6,
+    "description": "Manage your personal finances, track expenses, set monthly budgets, monitor savings goals, and understand your spending habits with clear reports.",
+    "size": 35,
+    "reviews": 32000,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Learning",
+    "title": "LearnHub",
+    "companyName": "EduTech Innovations",
+    "id": 7,
+    "description": "Learn new skills through interactive lessons, video tutorials, practice quizzes, and structured courses covering technology, business, and personal development.",
+    "size": 64,
+    "reviews": 87000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 7000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=FoodDelivery",
+    "title": "FoodExpress",
+    "companyName": "QuickBite Technologies",
+    "id": 8,
+    "description": "Discover local restaurants, browse menus, order your favorite meals, track deliveries in real time, and enjoy a convenient food ordering experience.",
+    "size": 49,
+    "reviews": 112000,
+    "ratingAvg": 4.1,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 30000 },
+      { "name": "5 star", "count": 40000 }
+    ]
+  }
+ 
+]

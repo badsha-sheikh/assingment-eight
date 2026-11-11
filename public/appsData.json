@@ -1,0 +1,662 @@
+[
+  {
+    "image": "https://placehold.co/200x200?text=ChatApp",
+    "title": "ChatApp",
+    "companyName": "Connectify Inc.",
+    "id": 1,
+    "description": "Stay connected with friends and family through fast, convenient instant messaging, voice calls, video calls, and group chats. Share photos, videos, documents, and other files while keeping your conversations organized in one place. Create group conversations for family, friends, or colleagues, and catch up on messages whenever it suits you. With a simple interface and useful communication features, ChatApp makes it easier to stay in touch wherever you are.",
+    "size": 45,
+    "reviews": 125000,
+    "ratingAvg": 4.5,
+    "downloads": 15000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 8000
+      },
+      {
+        "name": "3 star",
+        "count": 17000
+      },
+      {
+        "name": "4 star",
+        "count": 35000
+      },
+      {
+        "name": "5 star",
+        "count": 60000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=PhotoEditor",
+    "title": "Photo Editor Pro",
+    "companyName": "PixelCraft Studio",
+    "id": 2,
+    "description": "Transform ordinary photos into eye-catching images with a collection of professional editing tools, creative filters, and visual effects. Adjust brightness, contrast, saturation, sharpness, and colors to get the look you want. Experiment with different styles, fine-tune your pictures, and give your favorite moments a polished finish. Whether you are making quick edits or working on a more creative composition, Photo Editor Pro helps make photo editing straightforward.",
+    "size": 78,
+    "reviews": 98000,
+    "ratingAvg": 4.7,
+    "downloads": 12000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 5000
+      },
+      {
+        "name": "3 star",
+        "count": 10000
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 50000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=MusicPlayer",
+    "title": "Music Player",
+    "companyName": "SoundWave Technologies",
+    "id": 3,
+    "description": "Enjoy your favorite music with a versatile audio player designed to make listening simple and enjoyable. Create playlists, organize your tracks, and use equalizer settings to adjust the sound to your preference. Background playback lets you keep listening while using other apps, and support for multiple audio formats makes it convenient to play different kinds of music files. Keep your music in one place and enjoy a listening experience that suits your routine.",
+    "size": 32,
+    "reviews": 76000,
+    "ratingAvg": 4.3,
+    "downloads": 8500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6000
+      },
+      {
+        "name": "2 star",
+        "count": 7000
+      },
+      {
+        "name": "3 star",
+        "count": 13000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 30000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Fitness",
+    "title": "FitTrack",
+    "companyName": "ActiveLife Solutions",
+    "id": 4,
+    "description": "Build healthier habits and stay aware of your daily activity with FitTrack. Monitor workouts, track activity levels, count calories, and review your progress over time. Personalized fitness plans can help you organize your routine, while progress reports make it easier to see how consistently you are working toward your goals. Whether you are starting a new fitness journey or maintaining an existing routine, FitTrack helps you keep your activities organized.",
+    "size": 56,
+    "reviews": 54000,
+    "ratingAvg": 4.6,
+    "downloads": 6500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 25000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Weather",
+    "title": "Weather Now",
+    "companyName": "SkyCast Digital",
+    "id": 5,
+    "description": "Plan your day with useful weather information, including current conditions, hourly forecasts, and weekly predictions. Check expected changes before travelling, exercising outdoors, or arranging other activities. Severe weather alerts help you stay informed when conditions may affect your plans. With weather updates presented in an easy-to-understand format, Weather Now helps you make more informed decisions about your day.",
+    "size": 28,
+    "reviews": 43000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 4000
+      },
+      {
+        "name": "2 star",
+        "count": 5000
+      },
+      {
+        "name": "3 star",
+        "count": 9000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 15000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Budget",
+    "title": "Budget Planner",
+    "companyName": "SmartFinance Labs",
+    "id": 6,
+    "description": "Take control of your personal finances by tracking expenses, setting monthly budgets, and monitoring savings goals. Organize your spending so you can understand where your money goes and identify areas where you may want to make changes. Clear reports help you review your financial habits and follow your progress over time. Whether you are planning everyday expenses or working toward a larger savings target, Budget Planner gives you a convenient place to manage your money.",
+    "size": 35,
+    "reviews": 32000,
+    "ratingAvg": 4.4,
+    "downloads": 3200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 12000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Learning",
+    "title": "LearnHub",
+    "companyName": "EduTech Innovations",
+    "id": 7,
+    "description": "Learn new skills through interactive lessons, video tutorials, practice quizzes, and structured courses. Explore learning materials across technology, business, and personal development, and work through topics at a pace that suits you. Practice quizzes help you review what you have learned, while organized courses make it easier to follow a learning path. Whether you are exploring a new subject or strengthening existing knowledge, LearnHub supports continuous learning.",
+    "size": 64,
+    "reviews": 87000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 7000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 50000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=FoodDelivery",
+    "title": "FoodExpress",
+    "companyName": "QuickBite Technologies",
+    "id": 8,
+    "description": "Discover local restaurants, browse menus, and order meals from the convenience of your device. Explore available food options, choose your favorite dishes, and keep track of your order as it makes its way to you. Real-time delivery tracking helps you follow order progress, while an organized ordering experience makes it easier to revisit the meals you enjoy. FoodExpress brings restaurant discovery and food ordering together in one convenient place.",
+    "size": 49,
+    "reviews": 112000,
+    "ratingAvg": 4.1,
+    "downloads": 18000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12000
+      },
+      {
+        "name": "2 star",
+        "count": 10000
+      },
+      {
+        "name": "3 star",
+        "count": 20000
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 40000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Travel",
+    "title": "TravelMate",
+    "companyName": "WanderWorld Ltd.",
+    "id": 9,
+    "description": "Plan your next adventure with destination guides, travel itineraries, hotel recommendations, and packing checklists. Explore useful information about popular attractions so you can decide what to see and how to organize your time. Prepare for your journey by keeping important travel ideas and practical reminders together. Whether you are planning a short break or a longer trip, TravelMate helps make the preparation process more organized.",
+    "size": 42,
+    "reviews": 29000,
+    "ratingAvg": 4.5,
+    "downloads": 2800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 9000
+      },
+      {
+        "name": "5 star",
+        "count": 12000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=TaskManager",
+    "title": "TaskMaster",
+    "companyName": "Productive Minds",
+    "id": 10,
+    "description": "Organize your day, manage responsibilities, and keep track of important work with TaskMaster. Create to-do lists, set reminders, and prioritize tasks so you can focus on what needs attention first. Use the task management system to review upcoming responsibilities and monitor your productivity. From everyday errands to larger projects, TaskMaster provides a simple way to keep your plans and tasks in order.",
+    "size": 25,
+    "reviews": 61000,
+    "ratingAvg": 4.6,
+    "downloads": 7200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 17000
+      },
+      {
+        "name": "5 star",
+        "count": 30000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Shopping",
+    "title": "ShopSmart",
+    "companyName": "RetailNext Solutions",
+    "id": 11,
+    "description": "Explore a wide selection of products and compare prices to make more informed shopping decisions. Save your favorite items so you can return to them later, and discover personalized recommendations based on your interests. Manage your shopping orders in one place and keep track of the items you are considering or have purchased. With product discovery and order management brought together, ShopSmart makes everyday online shopping easier to organize.",
+    "size": 58,
+    "reviews": 94000,
+    "ratingAvg": 4.3,
+    "downloads": 14000000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 6000
+      },
+      {
+        "name": "2 star",
+        "count": 8000
+      },
+      {
+        "name": "3 star",
+        "count": 15000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 40000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Calculator",
+    "title": "Smart Calculator",
+    "companyName": "MathWorks Mobile",
+    "id": 12,
+    "description": "Handle everyday calculations and more advanced mathematical problems with a versatile calculator. Use scientific functions when you need to work with more complex expressions, and review calculation history when you want to check a previous result. Its clean interface keeps essential tools accessible without unnecessary clutter. Whether you are checking a quick total, studying mathematics, or working through a calculation, Smart Calculator offers a convenient tool for the task.",
+    "size": 18,
+    "reviews": 21000,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 6000
+      },
+      {
+        "name": "5 star",
+        "count": 10000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=VideoPlayer",
+    "title": "Video Player Pro",
+    "companyName": "VisionTech Studios",
+    "id": 13,
+    "description": "Enjoy video playback with support for multiple video formats and useful controls that let you customize your viewing experience. Adjust subtitle settings, change playback speed, and use background audio when you want to continue listening while doing something else. These features make it easier to watch different kinds of video content according to your preferences. Video Player Pro brings practical playback options together in one straightforward app.",
+    "size": 52,
+    "reviews": 48000,
+    "ratingAvg": 4.5,
+    "downloads": 6200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 7000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 20000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Language",
+    "title": "LinguaLearn",
+    "companyName": "Global Language Labs",
+    "id": 14,
+    "description": "Build your language skills through interactive lessons, vocabulary exercises, pronunciation practice, and daily challenges. Follow personalized learning plans to give your study routine more structure and revisit useful words and phrases as you progress. Regular practice can help you strengthen listening, speaking, and vocabulary skills over time. Whether you are beginning a new language or improving one you already know, LinguaLearn helps make practice part of your day.",
+    "size": 68,
+    "reviews": 73000,
+    "ratingAvg": 4.7,
+    "downloads": 9200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 7000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 40000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Password",
+    "title": "SecureVault",
+    "companyName": "CyberShield Technologies",
+    "id": 15,
+    "description": "Protect and organize important login information with a convenient place to store passwords and generate strong credentials. Keep private notes alongside your saved information and organize login details so they are easier to manage. Instead of relying on memory or scattered notes, use SecureVault to keep your digital account information organized. Its focus on password management helps you take a more structured approach to your online security.",
+    "size": 34,
+    "reviews": 39000,
+    "ratingAvg": 4.4,
+    "downloads": 4100000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 6000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 16000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Notes",
+    "title": "QuickNotes",
+    "companyName": "Simple Solutions Inc.",
+    "id": 16,
+    "description": "Capture ideas as soon as they come to mind, create checklists, and organize your notes into folders. Set reminders for important items so that useful thoughts and planned tasks are easier to revisit. A clean, easy-to-use interface helps you keep personal notes, quick lists, and everyday information together. Whether you are planning your day, recording an idea, or making a shopping list, QuickNotes helps keep everything organized.",
+    "size": 22,
+    "reviews": 56000,
+    "ratingAvg": 4.6,
+    "downloads": 6800000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 28000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=News",
+    "title": "DailyBrief",
+    "companyName": "NewsPoint Media",
+    "id": 17,
+    "description": "Stay informed with personalized news updates, trending stories, topic-based feeds, and breaking news alerts. Browse concise summaries to get an overview of important events without having to read every detail immediately. Follow topics that interest you and use organized feeds to find relevant stories more easily. DailyBrief brings news discovery and quick updates together to help you keep up with current events.",
+    "size": 38,
+    "reviews": 67000,
+    "ratingAvg": 4.2,
+    "downloads": 7900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 7000
+      },
+      {
+        "name": "3 star",
+        "count": 15000
+      },
+      {
+        "name": "4 star",
+        "count": 18000
+      },
+      {
+        "name": "5 star",
+        "count": 22000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Scanner",
+    "title": "DocuScan",
+    "companyName": "Paperless Technologies",
+    "id": 18,
+    "description": "Turn paper documents into digital files using your phone camera. Convert captured images into PDFs, use text recognition to make document content easier to work with, and organize your files for later access. You can also share digital documents when you need to send information to someone else. Whether you are handling notes, forms, or everyday paperwork, DocuScan helps make document management more convenient.",
+    "size": 41,
+    "reviews": 44000,
+    "ratingAvg": 4.5,
+    "downloads": 5300000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 8000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 18000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Gardening",
+    "title": "GardenGuide",
+    "companyName": "GreenLeaf Digital",
+    "id": 19,
+    "description": "Learn how to care for plants with practical gardening tips, watering reminders, plant care guides, and seasonal advice. Find helpful information whether you are just starting to grow plants or already have experience caring for a garden. Use reminders to keep routine plant care in mind and explore guidance for different stages of growth. GardenGuide brings useful gardening information together to help you care for healthier plants.",
+    "size": 29,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": 1900000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 6000
+      }
+    ]
+  },
+  {
+    "image": "https://placehold.co/200x200?text=Podcast",
+    "title": "PodWave",
+    "companyName": "AudioSphere Media",
+    "id": 20,
+    "description": "Discover podcasts across a range of subjects, including education, technology, business, comedy, and storytelling. Stream episodes, save favorites, and create personalized listening queues so you can organize what you want to hear next. Explore different topics and keep track of shows that interest you. Whether you listen while travelling, studying, or relaxing, PodWave makes it easier to keep your podcasts together.",
+    "size": 47,
+    "reviews": 35000,
+    "ratingAvg": 4.6,
+    "downloads": 4600000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 2000
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 17000
+      }
+    ]
+  }
+]
